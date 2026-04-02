@@ -204,7 +204,16 @@ A IA deve gerar um plano de MVP contendo:
 **🎯 Resultado Final**
 Acesse o protótipo funcional no Lovable: https://preview--chat-bruna-buddy.lovable.app/
 
+## 📸 Telas do MetaSmart
 
+**Chat**
+![Tela de Chat](images/Screenshot_1.png)
+
+**Metas**
+![Tela de Metas](images/Screenshot_2.png)
+
+**Progresso**
+![Tela de Progresso](images/Screenshot_3.png)
 
 
 
