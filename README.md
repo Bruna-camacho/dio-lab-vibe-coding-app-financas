@@ -206,14 +206,16 @@ Acesse o protótipo funcional no Lovable: https://preview--chat-bruna-buddy.lova
 
 ## 📸 Telas do MetaSmart
 
+## 📸 Telas do MetaSmart
+
 **Chat**
-![Tela de Chat](images/Screenshot_1.png)
+![Tela de Chat](Screenshot_1.png)
 
 **Metas**
-![Tela de Metas](images/Screenshot_2.png)
+![Tela de Metas](Screenshot_2.png)
 
 **Progresso**
-![Tela de Progresso](images/Screenshot_3.png)
+![Tela de Progresso](Screenshot_3.png)
 
 
 
