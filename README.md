@@ -205,7 +205,7 @@ A IA deve gerar um plano de MVP contendo:
 Acesse o protótipo funcional no Lovable: https://preview--chat-bruna-buddy.lovable.app/
 
 
-<img width="891" height="690" alt="Screenshot_1" src="https://github.com/user-attachments/assets/47bc6402-f988-4d6b-ae58-8948d0933c4c" />
+
 
 
 ```
